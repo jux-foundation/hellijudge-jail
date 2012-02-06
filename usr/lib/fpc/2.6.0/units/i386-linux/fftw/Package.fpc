@@ -1,0 +1,7 @@
+[package]
+name=fftw
+version=2.6.0
+[require]
+packages=rtl 
+libc=
+packages_linux_i386=

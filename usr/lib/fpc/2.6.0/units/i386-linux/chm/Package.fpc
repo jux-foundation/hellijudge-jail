@@ -1,0 +1,6 @@
+[package]
+name=chm
+version=2.6.0
+[require]
+packages=rtl rtl fcl-xml
+packages_linux_i386=

@@ -1,0 +1,6 @@
+[package]
+name=fcl-fpcunit
+version=2.6.0
+[require]
+packages=rtl paszlib fcl-xml
+packages_linux_i386=

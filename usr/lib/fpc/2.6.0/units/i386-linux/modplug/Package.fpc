@@ -1,0 +1,6 @@
+[package]
+name=modplug
+version=2.6.0
+[require]
+packages=rtl 
+packages_linux_i386=

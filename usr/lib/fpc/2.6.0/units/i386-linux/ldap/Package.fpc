@@ -1,0 +1,6 @@
+[package]
+name=ldap
+version=2.6.0
+[require]
+packages=rtl hash
+packages_linux_i386=

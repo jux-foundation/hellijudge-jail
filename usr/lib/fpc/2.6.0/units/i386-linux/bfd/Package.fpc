@@ -1,0 +1,7 @@
+[package]
+name=bfd
+version=2.6.0
+[require]
+package=rtl
+packages=rtl 
+packages_linux_i386=
