@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-#	cpp.sh
+#	cpp.sh: cpp compiler
 #	Copyright (C) 2011  Hamed Saleh and Mahrud Sayrafi
 
 #	This program is free software: you can redistribute it and/or modify
